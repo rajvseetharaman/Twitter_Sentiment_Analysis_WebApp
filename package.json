@@ -1,0 +1,14 @@
+{
+  "name": "a7-sentiment-js",
+  "version": "1.0.0",
+  "description": "This repository contains a web application for analyzing the sentiment of Twitter timelines, created as part of an assignment for the [Introduction to Programming](https://canvas.uw.edu/courses/1139975) course at the UW iSchool.",
+  "main": "tweeter_sentiment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.9.1"
+  }
+}
